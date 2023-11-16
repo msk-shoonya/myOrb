@@ -1,0 +1,7 @@
+{
+    "AppoinmentsPageLocators":{
+        "urgent_text":"#mat-input-0",
+        "routine_text":"#mat-input-1",
+        "filter_Button":".mat-button-wrapper > .ng-star-inserted"
+    }
+}

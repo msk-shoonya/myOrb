@@ -1,0 +1,7 @@
+{
+    "loginPageLocators":{
+        "email_text":"#mat-input-0",
+        "password_text":"#mat-input-1",
+        "login_Button":".mat-button-wrapper > .ng-star-inserted"
+    }
+}
